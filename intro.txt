@@ -1,0 +1,49 @@
+Development :
+-----------------------------------------
+Mobile/Application/software Development : c,cpp,python,java
+Web Development : html,css,js(javascript)
+
+Web Development:
+
+website --> collection of webpages --> Html code
+
+--> Html : Hyper Text Markup Language ==> hyper/highlight link 
+--> CSS : Cascading Style Sheet ==> website design/animation
+--> JS : JavaScript ==> Html code logic provide/html code data provide
+
+
+FrontEnd -- BackEnd -- Full Stack
+---------------------------------------------------------------
+FrontEnd : client side webpage
+BackEnd : DataBase(collection of data) 
+Full-Stack : client side and BackEnd handle
+
+Html :
+-----------------
+Website Skeleton
+
+.html / .htm
+
+
+Html Tags:
+----------------------------------------------------
+<html></html> --> Starting and ending Tags // closing tags
+<br> / <hr> // opening tags
+
+<head> --> Website heading
+<title>  --> website title
+<body> --> website body/Screening part
+<p> --> Website paragraph
+
+In Html language any Error is not available // html code error throw  
+
+// Seo --> Search Engine Optimization --> website search priority deside
+
+<h1> --> Website heading provide  // 1st priority --> 2nd priority recently visited
+.
+.
+.
+<h6> --> font-size differrence  
+
+<hr> --> Horizontal Rule
+<br> --> Break Rule
