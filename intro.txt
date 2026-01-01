@@ -47,3 +47,13 @@ In Html language any Error is not available // html code error throw
 
 <hr> --> Horizontal Rule
 <br> --> Break Rule
+
+
+<!Doctype> --> Browser file information
+<meta> --> meta data contain
+<!-- --> comments
+-----------------------------------------------------------------------------------------------------------------------------
+<!-- <b>bold text</b> <strong>strong text</strong> -->
+<!-- <i>Italic font</i><em> em font</em> -->
+<!-- <u>underline text</u><ins>insert text</ins> -->
+<!-- <strike>strike text</strike> <del>Delete text</del> -->
